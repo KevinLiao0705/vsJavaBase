@@ -1,0 +1,94 @@
+[winFrame_bm]	<50>
+[winFrame_wm]   <8>
+[winFrame_hm]   <32>  
+
+
+
+[webtx_socket_ip]   <127.0.0.1>  
+[webtx_socket_port]   <1235>  
+
+[sip_user_name] <pi>                //call linphonec use
+[sip_password_name] <raspberry>
+[sipshl_user_name] <pi>             //call siphone system controler
+[sipshl_password_name] <raspberry>
+
+[sipmd_iptype] <0>
+[sipmd_ip_str] <192.168.0.45>
+[sipmd_ipmask_str] <255.255.0.0>
+[sipmd_gateway_str] <192.168.0.1>
+
+
+[phone_name] <kevin>
+[phone_no] <194>
+[sip_server_ip] <192.168.3.230>
+[sip_server_pin] <1234>
+[auto_answer] <0>
+[auto_answer_wait] <10>
+
+[ear_mic_sens] <9>
+[ear_speaker_vol] <9>
+[phset_mic_sens] <9>
+[phset_speaker_vol] <9>
+
+[broadcast_comp_str] <192.168.3.233>
+[broadcast_comp_port] <5060>
+
+[web_password]<1234>
+[ntp_dns]<192.168.0.254>
+[ntp_adj_time]<60>
+[no_sipui_ip_str]<192.168.11.25>
+[no_switch_ip_str]<192.168.4.101>
+[auto_register_time]<1200>#unit = 50ms
+
+[syssec]<24680>
+
+[ptt_ctype] <0>^M
+[ptt_on_no] <1>^M
+[ptt_off_no] <2>^M
+[cor_invert] <1>^M
+[first_phase_tim] <100>^M
+[on_min_tim] <2>^M
+[on_max_tim] <40>^M
+[off_min_tim] <2>^M
+[off_max_tim] <40>^M
+[end_phase_tim] <50>^M
+[act1_phase_no] <3>^M
+[act1_call] <303>^M
+[act2_phase_no] <4>^M
+[act2_call] <305>^M
+[cut_phase_no] <5>^M
+
+
+
+
+[ict_username]<mtcl>
+[ict_password]<mtcl>
+
+
+[hotline_inxA~0]<0>
+[hotline_inxA~1]<1>
+[hotline_inxA~2]<2>
+[hotline_inxA~3]<3>
+
+
+
+[hotline_nameA~0] <Name 186>
+[hotline_noA~0] <186>
+[hotline_nameA~1] <Name 113>
+[hotline_noA~1] <113>
+[hotline_nameA~2] <Name 112>
+[hotline_noA~2] <112>
+[hotline_nameA~3] <Name 4>
+[hotline_noA~3] <304>
+[hotline_nameA~4] <Name 5>
+[hotline_noA~4] <305>
+[hotline_nameA~5] <Name 6>
+[hotline_noA~5] <306>
+[hotline_nameA~6] <Name 7>
+[hotline_noA~6] <307>
+[hotline_nameA~7] <Name 8>
+[hotline_noA~7] <308>
+
+
+[carType_inx] <0>
+[carNo_inx] <0>
